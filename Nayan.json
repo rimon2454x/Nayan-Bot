@@ -1,5 +1,5 @@
 {
-  "author": "Nayan",
+  "author": "Abhi",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -7,17 +7,17 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "𝐀𝐁𝐇𝐈 - 𝐁0𝐓",
+  "PREFIX": "#",
   "OPERATOR": [
     "100014896964436",
-    "100000959749712"
+    "100006623113766"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100006623113766",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["100006623113766"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
